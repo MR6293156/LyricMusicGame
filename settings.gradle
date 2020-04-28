@@ -1,0 +1,2 @@
+include ':app', ':lyricapp', ':lyricmusicgame'
+rootProject.name='Lyric Music Game'
